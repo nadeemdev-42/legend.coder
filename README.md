@@ -7,7 +7,7 @@
 
 - currently working on **discord bot**
 
-- 🌱 I’m currently learning **frame works in python**
+- I’m currently learning **frame works in python**
 
 - looking to collaborate on **full stack web**
 
