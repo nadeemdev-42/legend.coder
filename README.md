@@ -5,11 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemdev-42&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemdev-42" /> </p>
 
-- currently working on **discord bot**
-
-- I’m currently learning **frame works in python**
-
-- looking to collaborate on **full stack web**
+about = {
+    "name": "Legend",
+    "type": "Programmer",
+    "inProgress": "Backend",
+    "programming": ["python"],
+    "tools": ["learning"],
+    "proficient": "python",
+    "onGoingWorks": {
+        "course": "python",
+        "project": [
+            "practice set",
+            "discord bot"
+        ]
+    },
+    "learnerType": "self learner"
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
