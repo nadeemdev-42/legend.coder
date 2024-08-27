@@ -1,7 +1,7 @@
 # legend.coder
 <h1 align="center">Hi, I'm Nadeem</h1>
 <h3 align="center">Learning Full stack web dev</h3>
-<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
+<img align="right" alt="Coding" width="400" src="[https://outlane.co/now/new-shot-programmer-animation/](https://in.pinterest.com/pin/858428378991517366/)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemdev-42&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemdev-42" /> </p>
 
